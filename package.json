@@ -1,10 +1,10 @@
 {
   "name": "node-engines",
-  "version": "1.0.1a",
+  "version": "1.0.1-b",
   "description": "engines package builder",
   "main": "index.js",
   "bin": {
-    "node-engines": "./node-engines.js"
+    "node-engines": "node-engines.js"
   },
   "keywords": [
     "engines",
@@ -12,5 +12,17 @@
     "builder"
   ],
   "author": "Jason Mullings <admin@jlmconsulting.services>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmullings/node-engines-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmullings/node-engines-package/issues"
+  },
+  "homepage": "https://github.com/jmullings/node-engines-package#readme"
 }
