@@ -1,6 +1,6 @@
 {
   "name": "node-engines",
-  "version": "1.0.1-b",
+  "version": "1.0.1-c",
   "description": "engines package builder",
   "main": "index.js",
   "bin": {
