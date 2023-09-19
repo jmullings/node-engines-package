@@ -1,0 +1,16 @@
+{
+  "name": "node-engines",
+  "version": "1.0.1a",
+  "description": "engines package builder",
+  "main": "index.js",
+  "bin": {
+    "node-engines": "./node-engines.js"
+  },
+  "keywords": [
+    "engines",
+    "package",
+    "builder"
+  ],
+  "author": "Jason Mullings <admin@jlmconsulting.services>",
+  "license": "MIT"
+}
